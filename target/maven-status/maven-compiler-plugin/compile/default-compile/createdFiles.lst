@@ -1,0 +1,4 @@
+mx\edu\utez\soapclient\Main.class
+mx\edu\utez\soapclient\Servers\RFCService.class
+utez\RFCServiceService.class
+utez\Service.class
